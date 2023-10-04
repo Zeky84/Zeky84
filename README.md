@@ -27,6 +27,6 @@ Dedicated software developer with proficiency in designing, developing, and main
 
 
 ### Connect:
-For collaboration opportunities or professional inquiries, please reach out through [LinkedIn](linkedin.com/in/ezequiel-fernandez-76134110a) or drop an email at [your_email@gmail.com].
+For collaboration opportunities or professional inquiries, please reach out through [LinkedIn](76134110a) or drop an email at [ezequielfduque@gmail.com].
 
 [![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true)](https://github.com/YourGitHubUsername)

@@ -13,12 +13,12 @@ I'm a passionate developer with expertise in several technologies. Here are some
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## 🌱 Current Projects
-- Working on a [Java Web Application](#) using Spring Boot and Thymeleaf.
-- Developing [Awesome Tool](#) using Python.
+- Working on a [Java Web Applications](#) using Spring Boot and Thymeleaf.
+
 
 ## 📫 How to reach me:
 - [Portfolio](#) 
 - [LinkedIn](#)
 - [Email](mailto:your_email@gmail.com)
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Zeky84](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)

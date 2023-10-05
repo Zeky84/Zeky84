@@ -1,7 +1,7 @@
 ## Welcome to the GitHub profile of [Ezequiel Fernandez]
 
 ### Professional Summary:
-Dedicated software developer with proficiency in designing, developing, and maintaining complex applications. Extensive experience in both backend and frontend development, focusing on efficiency and performance optimization.
+Software developer with proficiency in designing, developing, and maintaining web applications.Focusing on efficiency and performance optimization.
 
 ### Technical Expertise:
 

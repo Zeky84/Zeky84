@@ -1,4 +1,4 @@
-## Welcome to the GitHub profile of [Ezequiel Fernandez]
+## Welcome to the GitHub profile of Ezequiel Fernandez
 
 ### Professional Summary:
 Software developer with proficiency in designing, developing, and maintaining web applications.Focusing on efficiency and performance optimization.

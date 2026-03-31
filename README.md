@@ -29,6 +29,7 @@ Software developer with proficiency in designing, developing, and maintaining we
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=mysql)
   
 - **Tools**:
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
